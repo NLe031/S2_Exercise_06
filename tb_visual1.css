@@ -34,7 +34,10 @@ figure figcaption {
 }
 
 /* HTML Styles */
-html {}
+html {
+    background-image: url(tb_back1.png);
+    background-repeat: round;
+}
 
 
 
